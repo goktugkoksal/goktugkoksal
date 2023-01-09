@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **blokchain technology**
 
-- 🌱 I’m currently learning **TypeScript, VueJS, ThreeJS**
+- 🌱 I’m currently learning **TypeScript, VueJS, VitaJS, ThreeJS**
 
 - 💬 Ask me about **web and blokchain developement.**
 
