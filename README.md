@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Göktuğ</h1>
 <h3 align="center">Someone who puts personal development at the center of his life.</h3>
 
-- 🔭 I’m currently working on **blokchain technology**
+- 🔭 I’m currently working on **web technology**
 
-- 🌱 I’m currently learning **TypeScript, VueJS, VitaJS, ThreeJS**
-
-- 💬 Ask me about **web and blokchain developement.**
+- 🌱 I’m currently learning **ASPNET MVC**
 
 - 📫 How to reach me **goktugkoksal@outlook.com**
 
